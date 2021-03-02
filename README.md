@@ -1,2 +1,2 @@
 # RESTAURANT
-veg menu
+veg
